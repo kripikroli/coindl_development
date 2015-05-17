@@ -10,4 +10,4 @@ How to sell digital downloads for <a href="http://www.weusecoins.com">Bitcoin</a
           
     <div id="btc-quote"></div>
     <script\ type="text/javascript" src="https://www.weusecoins.com/embed.js"></script\>
-    
+<p>Why is this not working?
