@@ -1,6 +1,6 @@
-# Bitcoin Miner
+# CoinDL
 
-Bitcoin Miner is a community for both advanced and aspiring miners.
+CoinDL is a community for both advanced and aspiring bitcoin product sellers.
 
 ## How to contribute
 
