@@ -1,2 +1,4 @@
-User-agent: *
-Allow: /
+User-Agent: *
+Disallow: 
+
+Sitemap: http://www.bitcoinminer.com/sitemap.xml

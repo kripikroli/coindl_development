@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	<head>
+		<title>{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="{{ page.description }} />
+		<meta name="keywords" content="{{ page.keywords }}" />
+		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
+		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header">
+						
+				<!-- Logo -->
+					<center><img src="{{ site.baseurl }}/images/bitcoin-miner-logo.png" alt="Bitcoin Miner - Learn bitcoin mining from a real expert!" /></center>
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							{% assign current = page.url | downcase | split: '/' %}
+							
+							<li><a href="{{ site.baseurl }}/">Home</a></li>
+							<li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
+							<li>
+								<a href="{{ site.baseurl }}/hardware/">Hardware</a>
+								<ul>
+									<li><a href="{{ site.baseurl }}/bitcoin-miner-antminer-s9/">Antminer S9</a></li>
+									<li><a href="{{ site.baseurl }}/usb-bitcoin-miner/">USB Bitcoin Miner</a></li>
+									<li><a href="{{ site.baseurl }}/bitcoin-miner-SP20-jackson/">SP20 Jackson</a></li>
+								</ul>
+							</li>
+							<li><a href="{{ site.baseurl }}/software/">Software</a></li>
+							<li><a href="{{ site.baseurl }}/cloud/">Cloud</a></li>
+							<li><a href="{{ site.baseurl }}/pools/">Pools</a></li>
+						</ul>
+					</nav>
+			</div>
