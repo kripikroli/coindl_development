@@ -6,7 +6,7 @@ description: A review of the Coinbase Bitcoin exchange.
 
 <p><center><img src="/images/coinbase-review-3.jpg" alt="Coinbase Review"/></center></p>
 
-<p>To be honest, we can just found a <a href="/blog/">handful of review to read</a> on Coinbase's business practices and examine the San Francisco -based Bitcoin exchange company. You might have been here because you want to check the reliability of this largest Bitcoin exchange business worldwide. <p>
+<p>To be honest, we can just found a handful of <a href="http://geni.us/coinbase">review to read on Coinbase business practices</a> and examine the San Francisco -based Bitcoin exchange company. You might have been here because you want to check the reliability of this largest Bitcoin exchange business worldwide. <p>
 
 <p>I hope this Coinbase that I'll give you will help on your self-evaluation on Coinbase exchange. After you are done reading this review, you will be able to decide if this largest Bitcoin exchange company is worthy on getting your hard-earned money in exchange of the cryptocurrency that has been loved worldwide.<p>
 
