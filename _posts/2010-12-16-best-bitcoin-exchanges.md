@@ -58,7 +58,7 @@ description: Best Bitcoin Exchange
 
 <p><strong>Coinbase.com</strong><p>
 
-<p>There were more than 4.8 million users who signed up for this exchange company with more or less 45,000 merchants and developer apps of more or less 9000 in figure. It has a combination of attractive interface, you can use debit card for this site to get Bitcoins and bunch of different wallets online to choose with.<p>
+<p>There were more than 4.8 million users who signed up for this exchange company with more or less 45,000 merchants and developer apps of more or less 9,000 in figure. It has a combination of attractive interface, you can use debit card for this site to get Bitcoins and bunch of different wallets online to choose with.<p>
 
 <p>It is a happy place for Bitcoin users from Canada, America and Europe.  It is very easy to use, <a href="/best-bitcoin-exchanges/">with long-term customers</a> on them and availability of online wallet. Might take a little while though when verifying your account.<p>
 
@@ -82,7 +82,7 @@ description: Best Bitcoin Exchange
 
 <p><strong>Paxful.com</strong><p>
 
-<p>Paxful is getting 50% of its customers from United States with more than 2 million visitors monthly. It is a peer to peer marketplace for Bitcoin sellers that is the same with one of the above. Impressively, you can use more than 1500 methods of payment. The cons would be more higher fees than the others.<p>
+<p>Paxful is getting 50% of its customers from United States with more than 2 million visitors monthly. It is a peer to peer marketplace for Bitcoin sellers that is the same with one of the above. Impressively, you can use more than 1,500 methods of payment. The cons would be more higher fees than the others.<p>
 
 <p><strong>Bitsquare.io</strong><p>
 
