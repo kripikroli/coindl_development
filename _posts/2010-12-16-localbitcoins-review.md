@@ -2,15 +2,24 @@
 layout: post
 title: LocalBitcoins Review
 description: A review of the LocalBitcoins Bitcoin exchange.
+toc:
+  modes: Modes of Payment
+  transaction: Transaction fees
+  secure: Secure trading
+  opinions: The Opinions of Community
+  choosing: Choosing your seller
+  communicating: Communicating with the seller
 ---
 
-<p>Learn from this LocalBitcoins review about how to buy bitcoins.<p><center><img src="/images/localbitcoins-review.jpg" alt="Localbitcoins Review"/></center></p>
+<p>Learn from this <a href="http://geni.us/localbitcoins">LocalBitcoins review</a> about how to buy bitcoins.
+
+<p><center><img src="/images/localbitcoins-review.jpg" alt="Localbitcoins Review"/></center></p>
 
 <p>LocalBitcoins have been present for such a long time. The <a href="/blog/">website is a place</a> not only to meet but also to trade Bitcoins, for both buyers and sellers around the world. </p>
-
+{% include page-toc.html %}
 <p>It is comparable to Craigslist with regards to trading Bitcoin. In this article, you will learn the different Bitcoin aspects and will also give you guidance on the ways of choosing a safe trade in the website.</p>
 
-<h2>Modes of Payment Approved on LocalBitcoins</h2>
+<h2 id="modes">Modes of Payment Approved on LocalBitcoins</h2>
  
 <p>LocalBitcoins sellers or buyers use different modes of payment. The main ones are listed here:</p>
 
@@ -32,7 +41,7 @@ description: A review of the LocalBitcoins Bitcoin exchange.
  
 <p>The usual way for having the best price to buy Bitcoin is using Cash Deposit or Wire Transfers in which it is difficult to do a reverse payment method.</p>
  
-<h2>Transaction fees</h2>
+<h2 id="transaction">Transaction fees</h2>
 
 <p>If you are only <a href="/coinmama-review/">aiming to purchase Bitcoins</a>, the LocalBitcoins can be used freely. Only a one percent commission is taken by the website from the sellers. But take note that the moment you have the Bitcoins in your account, you’ll be required to pay the basic Bitcoin network fees for you to be able to put your money inside your own Bitcoin wallet.</p>
  
@@ -40,7 +49,7 @@ description: A review of the LocalBitcoins Bitcoin exchange.
  
 <p>The sellers as well have a free transaction fee, but they are being charged instead with higher exchange rates, so you have to remember it upon doing a trade.</p>
  
-<h2>Secure trading</h2>
+<h2 id="secure">Secure trading</h2>
 
 <p>Several measures are used to have a secured trading in LocalBitcoins:</p>
 <ul>
@@ -54,7 +63,7 @@ description: A review of the LocalBitcoins Bitcoin exchange.
 
 <li><p><strong>Conflict and support resolution</strong> – For instances when a user has questions and conflicts, LocalBitcoins provides a support team just to answer and resolve it respectively in case it happens between sellers and buyers.</p></li>
 </ul>
-<h2>The Opinions of Community about LocalBitcoins</h2>
+<h2 id="opinions">The Opinions of Community about LocalBitcoins</h2>
 
 <p>Upon going to the <a href="/best-bitcoin-exchanges/">main community board of Bitcoin</a> such as Bitcointalk and Reddit, you will see different opinions about LocalBitcoins. But, after reading more than fifteen reviews, in summary, the same things were said by most people – The platform is really great but we can’t be sure of the people. One comment in Redditor said that trades are as trustworthy as the person you are making deals with.</p>
  
@@ -63,7 +72,7 @@ description: A review of the LocalBitcoins Bitcoin exchange.
 <p>Ways to Prevent Scam in LocalBitcoins Trading</p>
 <p>Even though LocalBitcoins is a good platform, it’s the traders that are not so good. Since you are trading with people, you have to exercise the right precautions. These are the ways to guide you in trading safely.</p>
  
-<h2>Choosing your seller</h2>
+<h2 id="choosing">Choosing your seller</h2>
  
 <p>When you are done filtering out sellers based on your desired method of payment and location, you have to make sure who you’re going to transact with. <a href="/best-bitcoin-wallets/">SELLERS SHOULD NOT BE CHOSEN BASED ON PRICE</a>. There are times when it is worth paying five percent more so that you can have transactions with a trustworthy seller. You should check on the seller’s history of transactions and double check his activities in the past.   </p>
  
@@ -80,7 +89,7 @@ description: A review of the LocalBitcoins Bitcoin exchange.
  
 <p>After that, look through the LocalBitcoins’ forum and check the username of that seller. If anything comes up like a complaint, you’ll most probably see it there. Otherwise, you should have found now your chosen seller.</p>
  
-<h2>Communicating with the seller</h2>
+<h2 id="communicating">Communicating with the seller</h2>
 
 <p>You can send the seller a message to request for a trade and patiently wait for their reply.</p>
  
