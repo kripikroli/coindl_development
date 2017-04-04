@@ -22,7 +22,7 @@ toc:
 
 <p>Luckily, United States people do have an alternative option on that. When buying Bitcoins there will be no credit cards, picture IDs, bank accounts and biometric scanning. You can have a purchase transaction for as low as 5 USD.  Now this is the best option because you don't need interaction with strangers anymore.</p>
 
-<h2 id="local">Rethinking Localbitcoins
+<h2 id="local">Rethinking Localbitcoins</h2>
 
 <p>Localbitcoins matches bitcoin purchasers with merchants. Since 2012, this universal administration has earned the notoriety for being a top commercial center for face to face bitcoin exchanges. Localbitcoins checks more than one hundred ten thousand dynamic merchants trading one thousand four hundred to three thousand bitcoins in every day volume. </p>
 
