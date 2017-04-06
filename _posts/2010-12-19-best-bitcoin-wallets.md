@@ -12,7 +12,7 @@ toc:
 ---
 
 <h2 id="wallet">Bitcon Wallet</h2>
-
+<p><center><img src="/images/bitcoin-wallet-1.jpg" alt="bitcoin wallet"/></center></p>
 <p>The primary <a href="/blog/">step to use Bitcoin</a> is to have a bitcoin wallet.</p>
 
 <p>Why?</p>
@@ -30,7 +30,7 @@ toc:
 <p>A <a href="/best-bitcoin-exchanges/">BTC wallet</a> is really just a website, device or an app that manages private keys of Bitcoin for you.</p>
  
 <h2 id="types">Bitcoin Wallet Types</h2>
-
+<p><center><img src="/images/bitcoin-wallet-2.jpg" alt="bitcoin wallet"/></center></p>
 <p>Let us talk about the different bitcoin wallet types and why you should choose one kind instead of the other.</p>
 
 <p><h4>Hardware Wallets</h4></p>
@@ -100,7 +100,7 @@ toc:
 <p>Your needs specifically should decide what wallet you will use, since there is no such things as “best bitcoin wallet”  </p>
 
 <h2 id="store">Hardware Wallets: Store Your Coins Safe</h2>
-
+<p><center><img src="/images/bitcoin-wallet-3.jpg" alt="bitcoin wallet"/></center></p>
 <p>Hardware wallets of course are not free.</p>
 
 <p>But the price won’t matter if you have a big amount of bitcoins. A hardware wallet protects just as effectively as regardless of any amount of bitcoin you have.</p>
@@ -141,7 +141,7 @@ toc:
 <p>This one is known to be a <a href="/best-bitcoin-exchanges/">budget kind of a hardware wallet</a>. It doesn’t bear a screen making it quite less secure compared to the three ones mentioned above. However, it will give more security compared to a hot wallet.</p>
 
 <h2 id="hot">Your Hot Wallets</h2>
- 
+<p><center><img src="/images/bitcoin-wallet-4.jpg" alt="bitcoin wallet"/></center></p>
 <p>Just a short refresher:</p>
 
 <p>Hot wallets are also Bitcoin wallets but runs on devices connected to the internet like mobile phone, tablet or computer. Since it creates private keys on devices with internet, the private keys are considered not 100% secured.</p>
@@ -213,7 +213,7 @@ toc:
 <p>Copay as well is also readily available on desktop. The desktop app allows you to personally manage your hardware wallets the same with all other characteristics discussed above.</p>
 
 <h2 id="billion">Bitcoin Banks: $1 Billion Lost in Hacks</h2>
- 
+<p><center><img src="/images/bitcoin-wallet-5.jpg" alt="bitcoin wallet"/></center></p>
 <p>Another thing to remember regarding bitcoin wallets is that there’s a distinction between a bank and a wallet. Some users of bitcoin see Coinbase as a wallet, but this company functions much more like a bank.</p>
 
 <p><strong>Remember:</strong></p>
@@ -231,7 +231,7 @@ toc:
 <p>So far, it’s important to note that private keys are the one you need to safely secure if you wish to keep safely your bitcoin from user errors, hackers and other issues possible.</p>
  
 <h2 id="theft">Theft and Scams</h2>
-
+<p><center><img src="/images/bitcoin-wallet-6.jpg" alt="bitcoin wallet"/></center></p>
 <p>No matter what wallet you select, take note:</p>
 
 <p>Your bitcoins will be safe only through the private keys that were securely generated, remained a secret and most especially controlled by no other person but YOU!</p>
