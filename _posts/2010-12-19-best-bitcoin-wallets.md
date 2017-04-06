@@ -122,7 +122,7 @@ toc:
 
 <p>A detailed comparison was also done of the three main hardware wallets: Trezor, Ledger Nano S, and KeepKey.</p>
  
-<h4>Overviews of Best Hardware Wallet of Bitcoin<h4>
+<h4>Overviews of Best Hardware Wallet of Bitcoin</h4>
 
 <p><strong>Ledger Nano S</strong></p>
 
