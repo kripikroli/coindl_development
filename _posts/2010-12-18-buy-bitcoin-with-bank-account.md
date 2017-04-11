@@ -24,6 +24,7 @@ description: How to buy bitcoin with a bank account.
 <li>Bank transfer made buying can take as much as five ( 5) days to complete</li>
 <li>Coinbase can track where and how your bitcoins are spent</li>
 </ul>
+<p><center><img src="/images/bank-account-1.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>BitPanda</h2>
 
 <p>BitPanda allows payment through bank account via Online Bank Transfer, SEPA and SOFORT</p>
@@ -37,6 +38,7 @@ description: How to buy bitcoin with a bank account.
  <ul>
 <li>Instead of showing fees on the website openly, it is covered in the purchasing price</li>
  </ul>
+ <p><center><img src="/images/bank-account-2.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>GDAX</h2>
 <p>Customers from the US can fund via bank wire or ACH their trading accounts in Coinbase Exchange. UK and Europe residents can fund via SEPA transfer.</p>
  
@@ -50,6 +52,7 @@ description: How to buy bitcoin with a bank account.
 <li>Confusing user interface for newbie buyers</li>
 <li>Bitcoin sending straightly from GDAX to a legally-questionable website may end up closing your account</li>
  </ul>
+ <p><center><img src="/images/bank-account-3.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>CEX.io</h2>
 <p>CEX.io enables bitcoin buying by the use of ACH in the U.S. or through SEPA transfer for Europe countries</p>
  
@@ -65,6 +68,7 @@ description: How to buy bitcoin with a bank account.
 <li>Extensive Verification process which requires too much personal information (includes a photo) and incurs a long delay</li>
 <li>GBP market doesn’t have liquidity</li>
  </ul>
+ <p><center><img src="/images/bank-account-4.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Gemini</h2>
 <p>Customers from US can buy bitcoins by account funding with ACH transfer on Gemini.</p>
  
@@ -80,6 +84,7 @@ description: How to buy bitcoin with a bank account.
 <li>Kind of confusing for newbies to usa</li>
 <li>Not available yet in the whole US states</li>
  </ul>
+ <p><center><img src="/images/bank-account-5.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Bittylicious</h2>
 <p>UK residents can buy bitcoins in fifteen minutes through online bank transfer</p>
  
@@ -95,7 +100,7 @@ Payment method of SEPA transfer is not available</li>
 <li>Natwest PYC/RBS method  of payment is not available</li>
 </ul>
  
- 
+
 <h2>Coinfloor</h2>
 EU residents can fund their own Coinfloor exchange account using SEPA while residents in UK can fund using online bank transfer or SEPA. Remember that a minimum deposit is required amounting to 1000 currency units (e.g. 1000 pounds or 1000 euros)
 <strong>PROS</strong>
@@ -108,6 +113,7 @@ EU residents can fund their own Coinfloor exchange account using SEPA while resi
 <li>Coinfloor Exchange’s minimum deposit amount is high; deposit must be with a minimum of a thousand units of currency</li>
 <li>Coinfloor Market accepts only GBP bank transfers</li>
  </ul>
+ <p><center><img src="/images/bank-account-6.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Coinfinity</h2>
 <p>Austria residents can purchase bitcoins using an online bank account via SOFORT transfer.</p>
  
@@ -121,7 +127,7 @@ Established and trusted exchange.</li>
 <li>Payment methods available is limited</li>
 <li>It’s not private since ID verification is necessary for their exchange</li>
  </ul>
- 
+ <p><center><img src="/images/bank-account-7.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Paymium</h2>
 
 <p>Paymium is a Bitcoin exchange based in France; anyone in the country can get bitcoins with a bank transfer using Paymium.</p>
@@ -135,7 +141,7 @@ Established and trusted exchange.</li>
 <ul>
 <li>ID verification required for amounts over €2,500, so not private</li>
  </ul>
- 
+ <p><center><img src="/images/bank-account-8.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Bity</h2>
 <p>Bity is a broker of Bitcoin which makes buying bitcoins possible for the Europeans with SEPA. At first, verification is required by the use of a phone number.</p>
  
@@ -149,7 +155,7 @@ Established and trusted exchange.</li>
 <li>Privately buying is not allowed since ID verification is necessary for most purchases</li>
 <li>With no intensive verification, annual limit is low with only €4,000</li>
  </ul>
- 
+ <p><center><img src="/images/bank-account-9.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Safello</h2>
  
 <strong>PROS</strong>
@@ -166,6 +172,7 @@ Established and trusted exchange.</li>
 <li>Payments made through Swish only can be confirmed on weekends</li>
 <li>Fees are included in the purchasing price but not clearly stated</li>
  </ul>
+ <p><center><img src="/images/bank-account-10.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Bitstamp</h2>
 <p>It is considered one of the largest Bitcoin exchanges in the world. Europeans can just easily buy large bitcoin amounts fast via SEPA bank transfer. Anybody across the world can use their own bank account to transmit a wire transfer going to Bitstamp, though fees may apply.</p>
  
@@ -183,6 +190,7 @@ Established and trusted exchange.</li>
 <li>Small purchases of credit card has a high 8% fee, with trading volume that is sufficient falling to 5%</li>
 <li>Equip towards traders; quite confusing possibly for newbie buyers</li>
  </ul>
+ <p><center><img src="/images/bank-account-11.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Kraken</h2>
 <p>Kraken is considered the largest Bitcoin exchange dominated by Euro in the world based on the average trading volume daily. The bank transfer deposits it supports are from European, US, British, Japanese and Canadian customers. Deposits can be done via SEPA transfer, Interac and international bank transfer.</p>
  
@@ -200,6 +208,7 @@ Established and trusted exchange.</li>
 <li>User-interface is difficult for newbie buyers</li>
 <li>ID verification is required, so it’s not private</li>
  </ul>
+ <p><center><img src="/images/bank-account-12.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>CoinCorner</h2>
 <p>CoinCorner is an exchange of bitcoin which is Isle of Man-based. European and UK users can buy bitcoins with debit/credit card, GBP bank transfer or SEPA.</p>
  
@@ -221,6 +230,7 @@ Established and trusted exchange.</li>
 <li>Equip towards traders; quite confusing possibly for newbie buyers</li>
 <li>Exchange prices  is not provided for comparison without signing-up</li>
  </ul>
+ <p><center><img src="/images/bank-account-13.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Cubits</h2>
 <p>Cubits welcomes transfers by SWIFT, as well as other local bank methods of transfer just like Online Bank Transfer and SOFORT.</p>
  
@@ -236,6 +246,7 @@ Established and trusted exchange.</li>
 <li>Wallet offered shouldn’t be stored by bitcoins</li>
 <li>ID verification is required, so it’s not private</li>
  </ul>
+ <p><center><img src="/images/bank-account-14.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Bitfinex</h2>
 <p>Bitfinex enables clients to deposit using big fund amount using SWIFT</p>
  
@@ -253,6 +264,7 @@ Established and trusted exchange.</li>
 <li>Equip towards traders; quite confusing possibly for newbie buyers</li>
 <li>Single payment option</li>
  </ul>
+ <p><center><img src="/images/bank-account-15.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>Xapo</h2>
  
 <p>Xapo allows deposit accounts through international wire transfer.</p>
@@ -269,6 +281,7 @@ Established and trusted exchange.</li>
 <li>ID verification is requires, so it’s not private</li>
 <li>Not publicly stated trading fees on the website.</li>
  </ul>
+ <p><center><img src="/images/bank-account-16.jpg" alt="buy bitcoin with bank"/></center></p>
 <h2>HappyCoins</h2>
 <p>HappyCoins gives out many quick payment methods that are bank-related like myBank, iDEAL, GiroPay, SEPA and Sofort.</p>
  
@@ -283,3 +296,4 @@ Established and trusted exchange.</li>
 <ul>
 <li>Publicly not displayed fees but are only included in the price at checkout</li>
 </ul>
+ <p><center><img src="/images/bank-account-17.jpg" alt="buy bitcoin with bank"/></center></p>
