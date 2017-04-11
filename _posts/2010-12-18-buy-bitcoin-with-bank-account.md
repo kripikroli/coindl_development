@@ -228,14 +228,14 @@ Established and trusted exchange.</li>
 <ul>
 <li>Trading fee of 0.9% is fair</li>
 <li>Offers various range of payment methods</li>
-<li>Twenty (20) fiat currencies are supported<li>
+<li>Twenty (20) fiat currencies are supported</li>
 <li>Design is super clean making the process of buying easy</li>
  </ul>
 <strong>CONS</strong>
 <ul>
 <li>Wallet offered shouldn’t be stored by bitcoins</li>
 <li>ID verification is required, so it’s not private</li>
- <ul>
+ </ul>
 <h2>Bitfinex</h2>
 <p>Bitfinex enables clients to deposit using big fund amount using SWIFT</p>
  
