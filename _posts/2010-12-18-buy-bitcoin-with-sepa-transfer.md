@@ -26,7 +26,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Coinbase can track where and how your bitcoins are spent</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-1.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-1.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>BitPanda</h2>
 
@@ -48,7 +48,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Instead of showing fees on the website openly, it is covered in the purchasing price</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-2.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-2.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>GDAX</h2>
 
@@ -64,7 +64,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Confusing user interface for newbie buyers</li>
 <li>Bitcoin sending straightly from GDAX to a legally-questionable website may end up closing your account</li>
 </ul>
-<p><center><img src="/images/sepa-ways-3.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-3.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>CEX.io</h2>
 
@@ -82,7 +82,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Extensive Verification process which <a href="/localbitcoins-review/">requires too much personal information</a> (includes a photo) and incurs a long delay</li>
 <li>GBP market doesn’t have liquidity</li>
 </ul>
-<p><center><img src="/images/sepa-ways-4.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-4.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>LocalBitcoins</h2>
  
@@ -102,7 +102,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Large amounts purchases of bitcoin are harder than large exchanges</li>
 <li>Slightly more expensive compared to regular exchanges; higher privacy is premium</li>
 </ul> 
-<p><center><img src="/images/sepa-ways-5.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-5.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Bitcoin.de</h2>
  
@@ -118,7 +118,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Payment method is Limited to SEPA</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-6.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-6.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Coinfloor</h2>
  
@@ -137,7 +137,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Coinfloor Market accepts only GBP bank transfers</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-7.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-7.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Coinfinity</h2>
  
@@ -153,7 +153,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>It’s not private since ID verification is necessary for their exchange</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-8.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-8.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Bity</h2>
  
@@ -170,7 +170,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>With no intensive verification, annual limit is low with only €4,000</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-9.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-9.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>LakeBTC</h2>
  
@@ -187,7 +187,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <ul>
 <li>Interface may be hard to use for first-time buyers</li>
 </ul>
-<p><center><img src="/images/sepa-ways-10.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-10.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Gatecoin</h2>
  
@@ -204,7 +204,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Was hacked in May of 2016; users should not store funds on the exchange if it can be avoided</li>
 </ul>
 
-<p><center><img src="/images/sepa-ways-11.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-11.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Safello</h2>
  
@@ -224,7 +224,7 @@ description: How to buy bitcoin with a SEPA transfer.
 <li>Only Swish payments will confirm over weekends</li>
 <li>Fees aren't clearly stated but included in your buying price</li>
 </ul> 
-<p><center><img src="/images/sepa-ways-12.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-12.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Bitstamp</h2>
 
@@ -250,7 +250,7 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <li>Adapted towards brokers; somewhat befuddling for first time purchasers</li>
 </ul>
-<p><center><img src="/images/sepa-ways-13.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-13.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Kraken</h2>
  
@@ -276,7 +276,7 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <li>Requires ID check, so not private</li>
 </ul>
-<p><center><img src="/images/sepa-ways-14.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-14.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>CoinCorner</h2>
  
@@ -310,7 +310,7 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <li>Does not give trade costs to correlation without join</li>
 </ul>
-<p><center><img src="/images/sepa-ways-15.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-15.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>Cubits</h2>
  
@@ -332,7 +332,7 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <li>Requires ID check, so not private</li>
 </ul>
-<p><center><img src="/images/sepa-ways-16.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-16.jpg" alt="buying bitcoin using sepa"/></center></p>
  
 <h2>itBit</h2>
 <p>itBit is a <a href="/buy-bitcoin-with-paypal/">worldwide Bitcoin trade</a>, authorized with the New York State Department of Financial Services. It additionally works a worldwide OTC exchanging work area, making it simple for clients to purchase substantial sums (100 BTC and up) of bitcoin. It bolsters all US states other than Texas. </p>
@@ -353,23 +353,23 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <li>Adapted towards dealers; exch</li>
 </ul>
-<p><center><img src="/images/sepa-ways-17.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-17.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>Anycoin Direct</h2>
 
 <p>Anycoin Direct is a Bitcoin specialist situated in the Netherlands which administrations customers crosswise over Europe. Clients can buy bitcoin with SEPA, SOFORT, Giropay, iDEAL, Mybank, Bancontact, and TrustPay. </p>
 
 <strong>Pros</strong>
 <ul>
-<li>High limits can be achieved with time</li>
-<li>Very wide range of payment methods</li>
-<li>Support for numerous altcoins</li>
+<li>High points of confinement can be accomplished with time </li>
+<li>Wide scope of installment strategies </li>
+<li>Bolster for various altcoins </li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Fees not directly published on website</li>
-<li>Requires intensive ID verification, including video chat, so not private</li>
+<li>Charges not straightforwardly distributed on site </li>
+<li>Requires serious ID check, including video talk, so not private</li>
 </ul>
-<p><center><img src="/images/sepa-ways-18.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-18.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>BTC-e</h2>
 
 <p>BTC-e is a Bitcoin trade situated in Bulgaria. While its proprietors stay unknown, it's been around for quite a while and is one of the more prominent trades. Not at all like numerous other managed trades, BTC-e has never lost client stores, which builds its notoriety for reliability. Nonetheless, as it's unregulated, its proprietors could conceivably flee with client reserves at whatever time. BTC-e gives off an impression of being dependable, however use with alert and don't leave finances on the trade! </p>
@@ -378,47 +378,47 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <strong>Pros</strong>
 <ul>
-<li>One of the longest-running, trouble-free Bitcoin exchanges</li>
-<li>Very low 0.2% trading fees</li>
-<li>Accepts EUR, USD and RUR</li>
-<li>Extensive range of payment options</li>
+<li>One of the longest-running, inconvenience free Bitcoin trades </li>
+<li>Low 0.2% exchanging charges </li>
+<li>Acknowledges EUR, USD and RUR</li>
+<li>Broad scope of installment alternatives </li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Owners are anonymous</li>
-<li>BTC-e is not regulated but does comply with AML/CTF</li>
-<li>Requires ID verification for bank transfer payments, so not private</li>
+<li>Proprietors are mysterious</li>
+<li>BTC-e is not controlled but rather complies with AML/CTF </li>
+<li>Requires ID confirmation for bank exchange installments, so not private</li>
 </ul>
-<p><center><img src="/images/sepa-ways-19.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-19.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>HappyCoins</h2>
 
 <p>HappyCoins is a Bitcoin trade situated in the Netherlands which administrations clients crosswise over Europe. HappyCoins acknowledges an extensive variety of installment techniques, including numerous moment installment strategies; iDEAL, Bancontact, GiroPay, myBank, Sofort and Interac. It likewise offers SEPA stores for all EU occupants, which take 1 to 3 days to clear. </p>
 
 <strong>Pros</strong>
 <ul>
-<li>Long-running and trusted exchange</li>
-<li>Wide range of payment options offered</li>
-<li>Occasional "HappyHour" 0% fee periods</li>
-<li>Quite private; only email and bank account number and name required</li>
+<li>Long-running and confided in return </li>
+<li>Extensive variety of installment choices advertised </li>
+<li>Intermittent "HappyHour" 0% expense periods </li>
+<li>Very private; just email and financial balance number and name required </li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Fees are not displayed publically; only included in price at checkout</li>
+<li>Charges are not shown publically; just incorporated into cost at checkout</li>
 </ul>
-<p><center><img src="/images/sepa-ways-20.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-20.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>ANXPRO</h2>
 
 <p>ANXPRO is a Bitcoin trade situated in Hong Kong. It gives you a chance to purchase bitcoins with bank exchange.</p>
 
 <strong>Pros</strong>
 <ul>
-<li>One of the oldest running Bitcoin exchanges</li>
-<li>Low 06% fee for market takers and 0.3% fee for market makers</li>
+<li>One of the most established running Bitcoin trades </li>
+<li>Low 06% charge for market takers and 0.3% expense for market creators</li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Limited payment options</li>
-<li>Extra fees may be charged when sending a wire to the exchange</li>
-<li>Requires ID verification, so not private</li>
+<li>Restricted installment choices </li>
+<li>Additional expenses might be charged when sending a wire to the trade </li>
+<li>Requires ID confirmation, so not private</li>
 </ul>
-<p><center><img src="/images/sepa-ways-21.jpg" alt="buying bitcoin using sepa"/></center></p>
+<p><center><img src="/images/sepa-transfer-21.jpg" alt="buying bitcoin using sepa"/></center></p>
