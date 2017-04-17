@@ -360,14 +360,14 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <strong>Pros</strong>
 <ul>
-<li>High limits can be achieved with time</li>
-<li>Very wide range of payment methods</li>
-<li>Support for numerous altcoins</li>
+<li>High points of confinement can be accomplished with time </li>
+<li>Wide scope of installment strategies </li>
+<li>Bolster for various altcoins </li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Fees not directly published on website</li>
-<li>Requires intensive ID verification, including video chat, so not private</li>
+<li>Charges not straightforwardly distributed on site </li>
+<li>Requires serious ID check, including video talk, so not private</li>
 </ul>
 <p><center><img src="/images/sepa-transfer-18.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>BTC-e</h2>
@@ -378,16 +378,16 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <strong>Pros</strong>
 <ul>
-<li>One of the longest-running, trouble-free Bitcoin exchanges</li>
-<li>Very low 0.2% trading fees</li>
-<li>Accepts EUR, USD and RUR</li>
-<li>Extensive range of payment options</li>
+<li>One of the longest-running, inconvenience free Bitcoin trades </li>
+<li>Low 0.2% exchanging charges </li>
+<li>Acknowledges EUR, USD and RUR</li>
+<li>Broad scope of installment alternatives </li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Owners are anonymous</li>
-<li>BTC-e is not regulated but does comply with AML/CTF</li>
-<li>Requires ID verification for bank transfer payments, so not private</li>
+<li>Proprietors are mysterious</li>
+<li>BTC-e is not controlled but rather complies with AML/CTF </li>
+<li>Requires ID confirmation for bank exchange installments, so not private</li>
 </ul>
 <p><center><img src="/images/sepa-transfer-19.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>HappyCoins</h2>
@@ -396,14 +396,14 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <strong>Pros</strong>
 <ul>
-<li>Long-running and trusted exchange</li>
-<li>Wide range of payment options offered</li>
-<li>Occasional "HappyHour" 0% fee periods</li>
-<li>Quite private; only email and bank account number and name required</li>
+<li>Long-running and confided in return </li>
+<li>Extensive variety of installment choices advertised </li>
+<li>Intermittent "HappyHour" 0% expense periods </li>
+<li>Very private; just email and financial balance number and name required </li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Fees are not displayed publically; only included in price at checkout</li>
+<li>Charges are not shown publically; just incorporated into cost at checkout</li>
 </ul>
 <p><center><img src="/images/sepa-transfer-20.jpg" alt="buying bitcoin using sepa"/></center></p>
 <h2>ANXPRO</h2>
@@ -412,13 +412,13 @@ description: How to buy bitcoin with a SEPA transfer.
 
 <strong>Pros</strong>
 <ul>
-<li>One of the oldest running Bitcoin exchanges</li>
-<li>Low 06% fee for market takers and 0.3% fee for market makers</li>
+<li>One of the most established running Bitcoin trades </li>
+<li>Low 06% charge for market takers and 0.3% expense for market creators</li>
 </ul>
 <strong>Cons</strong>
 <ul>
-<li>Limited payment options</li>
-<li>Extra fees may be charged when sending a wire to the exchange</li>
-<li>Requires ID verification, so not private</li>
+<li>Restricted installment choices </li>
+<li>Additional expenses might be charged when sending a wire to the trade </li>
+<li>Requires ID confirmation, so not private</li>
 </ul>
 <p><center><img src="/images/sepa-transfer-21.jpg" alt="buying bitcoin using sepa"/></center></p>
