@@ -10,7 +10,7 @@ toc:
 ---
 
 <p>There has been a variety of <a href="/buy-bitcoin-with-paypal/">United States regulatory bodies</a> asking about Bitcoin and they are raising a lot of questions. This increasing fervor to scrutinize Bitcoin went to some issues on dealing with United States customers due to anxiety of the regulation and the strictness of AML laws as well as the push on KYC or Know Your Customer.</p>
-{% include page-toc.html %}
+
 <p>For individuals who need to purchase bitcoins without check for money, keeping away from the significant trades is a justified strategy. </p>
 
 <p>Truth be told, Mt Gox is not even a US organization, they are situated in Japan, however this has not halted the US administrative body FinCEN from everything except devastating their business. </p>
