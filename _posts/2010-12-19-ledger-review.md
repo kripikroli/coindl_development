@@ -15,7 +15,7 @@ toc:
 ---
 
 <p>A quite affordable hardware for bitcoin called <a href="http://geni.us/ledger">Ledger Wallet Nano</a> has a handful of brilliant hacks up its sleeve. The look is good and promised to be improved by the company withan accompaniment mobile app planned to be released in 2015.  </p>
-{% include page-toc.html %}
+
 <p><center><img src="/images/ledger-wallet-1.jpg" alt="Ledger Wallet Review"/></center></p>
 
 <h2 id="basics">The Basics</h2>

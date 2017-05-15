@@ -16,7 +16,7 @@ toc:
 <p><center><img src="/images/localbitcoins-review.jpg" alt="Localbitcoins Review"/></center></p>
 
 <p>LocalBitcoins have been present for such a long time. The <a href="/blog/">website is a place</a> not only to meet but also to trade Bitcoins, for both buyers and sellers around the world. </p>
-{% include page-toc.html %}
+
 <p>It is comparable to Craigslist with regards to trading Bitcoin. In this article, you will learn the different Bitcoin aspects and will also give you guidance on the ways of choosing a safe trade in the website.</p>
 
 <h2 id="modes">Modes of Payment Approved on LocalBitcoins</h2>
