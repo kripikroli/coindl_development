@@ -10,6 +10,8 @@ toc:
   choose: I choose Coinmama
 ---
 
+{% include page-toc.html %}
+
 <p>It was on January 2014 when <a href="http://geni.us/coinmama">I first reviewed Coinmama</a>. It was among the first services I reviewed in the website 99Bitcoins. What’s so great about Coinmama back then was the fact that it allowed users to purchase Bitcoins through Western Union. Well I’ve decided recently to visit the website again and saw a lot of changes in it, so this is gonna be a renewed review for this service.</p>
  
 <h2 id="credit">Say Goodbye to Western Union and Hello to Credit Cards!</h2>
