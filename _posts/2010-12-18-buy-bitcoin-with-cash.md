@@ -14,6 +14,8 @@ toc:
   fast: Fast And Convenient
 ---
 
+{% include page-toc.html %}
+
 <p><center><img src="/images/buy-bitcoin-cash-1.jpg" alt="buy bitcoin cash"/></center></p>
 
 <p>Let's face the reality, <a href="/buy-bitcoin-with-paypal/">getting started with Bitcoin</a> is not that easy. Some might wish that purchasing Bitcoins could just be as easy as filling in your credit card information into a web form to pay bills and so on and so forth. </p>
