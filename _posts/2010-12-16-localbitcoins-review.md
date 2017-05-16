@@ -11,6 +11,8 @@ toc:
   communicating: Communicating with the seller
 ---
 
+{% include page-toc.html %}
+
 <p>Learn from this <a href="http://geni.us/localbitcoins">LocalBitcoins review</a> about how to buy bitcoins.
 
 <p><center><img src="/images/localbitcoins-review.jpg" alt="Localbitcoins Review"/></center></p>
