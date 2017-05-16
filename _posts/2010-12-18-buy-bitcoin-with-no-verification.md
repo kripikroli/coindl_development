@@ -9,6 +9,8 @@ toc:
   atm: Bitcoin ATMs
 ---
 
+{% include page-toc.html %}
+
 <p>There has been a variety of <a href="/buy-bitcoin-with-paypal/">United States regulatory bodies</a> asking about Bitcoin and they are raising a lot of questions. This increasing fervor to scrutinize Bitcoin went to some issues on dealing with United States customers due to anxiety of the regulation and the strictness of AML laws as well as the push on KYC or Know Your Customer.</p>
 
 <p>For individuals who need to purchase bitcoins without check for money, keeping away from the significant trades is a justified strategy. </p>
